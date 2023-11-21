@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - <b>Cybersecurity Projects</b>
   - [Creating Live SOC / Honeypot in Azure](https://github.com/Scottiesene/AzureHoneypot)
 
-  - [Using Nessus Vulnerability Management to find potential vulnerabilites](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Using Nessus Vulnerability Management to Find Potential Vulnerabilites](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
