@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Scottie! Pharm Tech / <a href="https://www.linkedin.com/in/scottiesene/">Cybersecurity Support Analyst Intern <br/><a href="https://cybersentinelscott.com/blog-list">Cybersecurity Content Creator / Blogger</a>, </a></h1>
+<h1>Hi, I'm Scottie! Pharm Tech / <a href="https://www.linkedin.com/in/scottiesene/">Cybersecurity Support Analyst Intern <br/><a href="https://cybersentinelscott.com/blog-list">Cybersecurity Content Creator / Blogger</a> </a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
