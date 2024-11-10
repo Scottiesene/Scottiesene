@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
+  - [Active Directory Home Lab w/ Over 1000 users](https://github.com/Scottiesene/Active-Directory-Home-Lab-Over-1-000-Users)
+
   - [Creating Live SOC / Honeypot in Azure](https://github.com/Scottiesene/AzureHoneypot)
 
   - [Using Nessus Vulnerability Management to Find Potential Vulnerabilites](https://github.com/Scottiesene/NessusVulnerabilityManagement) <b><i></b></i>
